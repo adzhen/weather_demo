@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adzhen/weather_demo.git/static/css/main.29d3ae3a.chunk.css",
+    "main.js": "/adzhen/weather_demo.git/static/js/main.907a43ec.chunk.js",
+    "main.js.map": "/adzhen/weather_demo.git/static/js/main.907a43ec.chunk.js.map",
+    "runtime-main.js": "/adzhen/weather_demo.git/static/js/runtime-main.336e2ddb.js",
+    "runtime-main.js.map": "/adzhen/weather_demo.git/static/js/runtime-main.336e2ddb.js.map",
+    "static/js/2.6382e513.chunk.js": "/adzhen/weather_demo.git/static/js/2.6382e513.chunk.js",
+    "static/js/2.6382e513.chunk.js.map": "/adzhen/weather_demo.git/static/js/2.6382e513.chunk.js.map",
+    "static/js/3.c3fd23ff.chunk.js": "/adzhen/weather_demo.git/static/js/3.c3fd23ff.chunk.js",
+    "static/js/3.c3fd23ff.chunk.js.map": "/adzhen/weather_demo.git/static/js/3.c3fd23ff.chunk.js.map",
+    "index.html": "/adzhen/weather_demo.git/index.html",
+    "static/css/main.29d3ae3a.chunk.css.map": "/adzhen/weather_demo.git/static/css/main.29d3ae3a.chunk.css.map",
+    "static/js/2.6382e513.chunk.js.LICENSE.txt": "/adzhen/weather_demo.git/static/js/2.6382e513.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/adzhen/weather_demo.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.336e2ddb.js",
+    "static/js/2.6382e513.chunk.js",
+    "static/css/main.29d3ae3a.chunk.css",
+    "static/js/main.907a43ec.chunk.js"
+  ]
+}
